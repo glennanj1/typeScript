@@ -1,1 +1,1 @@
-# typeScript
+# Sample TypeScript Scaffold
